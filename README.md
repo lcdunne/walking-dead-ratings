@@ -14,6 +14,8 @@ The top 5 episodes were #1, #23, #43, #52, and #76, with #23 standing out as it 
 
 <img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/views_and_ratings_heatmap.png" alt="" width="620">
 
+A writer score was calculated for each writer according to their mean and standard deviation of their episode ratings. Each writer's mean rating was converted to a percentile rank, $p_r(\bar{x})$, as was each writer's standard deviation, $p_r(\bar{s})$. The writer score was simply the arithmetic mean of these rankings.
+
 The top 5 writers from the series, with the highest writer score, were Robert Kirkman, Seth Hoffman, Glen Mazzara, Jim Barnes, and Evan Reilly. None of the 5 writers with the highest episode counts were in the top 5 scoring writers, but Scott Gimple was ranked #4 if between-episode variability is not considered. Interestingly, Sang Kyu Kim - the writer of episode #23 - did not write any other episode of The Walking Dead, so they were not included in the best writer analysis due to having only a single episode.
 
 <img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/best_writer.png" alt="" width="620">
