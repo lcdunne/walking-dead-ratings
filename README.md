@@ -2,7 +2,7 @@
 
 <img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/twd_logo.png" alt="" width="620">
 
-This is a basic exploration into the performance of the main TV show of The Walking Dead. Wikipedia has a [list of episodes](https://en.wikipedia.org/wiki/List_of_The_Walking_Dead_episodes) with useful information about each episode, but I also wanted an indication of how each episode was received by the viewers, so I scraped this from IMDb (see [`scrape_twd_data.ipynb`](https://github.com/lcdunne/walking-dead-ratings/blob/main/scrape_twd_data.ipynb)).
+This is a basic exploration into the performance of the main TV show of The Walking Dead (see [`twd_analysis.ipynb`](https://github.com/lcdunne/walking-dead-ratings/blob/main/twd_analysis.ipynb) for the main code). Wikipedia has a [list of episodes](https://en.wikipedia.org/wiki/List_of_The_Walking_Dead_episodes) with useful information about each episode, but I also wanted an indication of how each episode was received by the viewers, so I scraped this from IMDb (see [`scrape_twd_data.ipynb`](https://github.com/lcdunne/walking-dead-ratings/blob/main/scrape_twd_data.ipynb)).
 
 I wanted to see which seasons and episodes were the most popular, and since we also have the data on who wrote each episode, I was curious to see which of the (many) writers wrote the best episodes.
 
