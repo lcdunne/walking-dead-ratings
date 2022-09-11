@@ -1,6 +1,6 @@
 # Analysis of The Walking Dead - Views & Ratings
 
-![logo.png](C:\Users\L\Root\projects\walking-dead-ratings\img\logo.png)
+<img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/logo.png" alt="" width="620">
 
 This is a basic exploration into the performance of the main TV show of The Walking Dead. Wikipedia has a [list of episodes]([List of The Walking Dead episodes - Wikipedia](https://en.wikipedia.org/wiki/List_of_The_Walking_Dead_episodes) with useful information about each episode, but I also wanted an indication of how each episode was received by the viewers, so I scraped this from IMDb.
 
