@@ -8,14 +8,14 @@ I wanted to see which seasons and episodes were the most popular, and since we a
 
 The highest ranked seasons were seasons 1, 3, and 5, with Season 5 having the highest viewer count overall:
 
-![views_and_ratings_by_season.png](C:\Users\L\Root\projects\walking-dead-ratings\views_and_ratings_by_season.png)
+<img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/views_and_ratings_by_season.png" alt="" width="620">
 
 The top 5 episodes were #1, #23, #43, #52, and #76, with #23 standing out as it was unlikely to be confounded by "first/last episode" effects, unlike the other four. According to Wikipedia, episode #23 could be the best of all 177:
 
-![views_and_ratings_heatmap.png](C:\Users\L\Root\projects\walking-dead-ratings\views_and_ratings_heatmap.png)
+<img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/views_and_ratings_heatmap.png" alt="" width="620">
 
 The top 5 writers from the series, with the highest writer score, were Robert Kirkman, Seth Hoffman, Glen Mazzara, Jim Barnes, and Evan Reilly. None of the 5 writers with the highest episode counts were in the top 5 scoring writers, but Scott Gimple was ranked #4 if between-episode variability is not considered. Interestingly, Sang Kyu Kim - the writer of episode #23 - did not write any other episode of The Walking Dead, so they were not included in the best writer analysis due to having only a single episode.
 
-![best_writer.png](C:\Users\L\Root\projects\walking-dead-ratings\best_writer.png)
+<img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/best_writer.png" alt="" width="620">
 
 As the initial creator of the original comic book series (along with Tony Moore), it seems fair that Robert Kirkman's episodes scored the highest.
