@@ -10,7 +10,7 @@ The highest ranked seasons were seasons 1, 3, and 5, with Season 5 having the hi
 
 <img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/views_and_ratings_by_season.png" alt="" width="620">
 
-The top 5 episodes were #1, #23, #43, #52, and #76, with #23 standing out as it was unlikely to be confounded by "first/last episode" effects, unlike the other four. According to Wikipedia, episode #23 could be the best of all 177:
+The top 5 episodes were #1, #23, #43, #52, and #76, with #23 (S03E04) standing out as it was unlikely to be confounded by "first/last episode" effects, unlike the other four. According to Wikipedia, episode #23 could be the best of all 177:
 
 <img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/views_and_ratings_heatmap.png" alt="" width="620">
 
