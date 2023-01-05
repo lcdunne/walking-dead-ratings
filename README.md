@@ -19,5 +19,3 @@ A writer score was calculated for each writer according to their mean and standa
 The top 5 writers from the series, with the highest writer score, were Robert Kirkman, Seth Hoffman, Glen Mazzara, Jim Barnes, and Evan Reilly. None of the 5 writers with the highest episode counts were in the top 5 scoring writers, but Scott Gimple was ranked #4 if between-episode variability was not considered. Interestingly, Sang Kyu Kim - the writer of episode #23 - did not write any other episode of The Walking Dead, so they were not included in the best writer analysis due to having only a single episode.
 
 <img src="https://github.com/lcdunne/walking-dead-ratings/raw/main/img/best_writer.png" alt="" width="620">
-
-As the initial creator of the original comic book series (along with Tony Moore), it seems fair that Robert Kirkman's episodes scored the highest.
